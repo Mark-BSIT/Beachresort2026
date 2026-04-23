@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "r6uUj+A5sqA=",
+  "dgSpecHash": "dgn4OhnRy+4=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\BeachResortAPI\\BeachResortAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
