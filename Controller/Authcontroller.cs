@@ -1,60 +1,33 @@
 using Microsoft.AspNetCore.Mvc;
-using MySql.Data.MySqlClient;
-using BCrypt.Net;
+using Dapper;
 
 [ApiController]
 [Route("api/[controller]")]
 public class AuthController : ControllerBase
 {
-    private readonly IConfiguration _config;
+    private readonly DbConnection _db;
 
-    public AuthController(IConfiguration config)
+    public AuthController(DbConnection db)
     {
-        _config = config;
+        _db = db;
     }
 
     [HttpPost("login")]
-    public IActionResult Login([FromBody] LoginModel model)
+    public IActionResult Login([FromBody] LoginRequest data)
     {
-        if (string.IsNullOrEmpty(model.Username) || string.IsNullOrEmpty(model.Password))
-            return BadRequest("Username and password are required");
+        using var conn = _db.CreateConnection();
 
-        try
-        {
-            using var conn = new MySqlConnection(_config.GetConnectionString("DefaultConnection"));
-            conn.Open();
-
-            var cmd = new MySqlCommand("SELECT id, username, password, role FROM users WHERE username=@u", conn);
-            cmd.Parameters.AddWithValue("@u", model.Username);
-
-            using var reader = cmd.ExecuteReader();
-
-            if (reader.Read())
+        var user = conn.QueryFirstOrDefault(
+            "SELECT * FROM users WHERE username = @username AND password = @password",
+            new
             {
-                var hashedPassword = reader["password"].ToString();
+                username = data.username,
+                password = data.password
+            });
 
-                if (BCrypt.Net.BCrypt.Verify(model.Password, hashedPassword))
-                {
-                    return Ok(new
-                    {
-                        id = reader["id"],
-                        username = reader["username"],
-                        role = reader["role"]
-                    });
-                }
-            }
+        if (user == null)
+            return Unauthorized("Invalid credentials");
 
-            return Unauthorized("Invalid login");
-        }
-        catch (Exception ex)
-        {
-            return StatusCode(500, ex.Message);
-        }
+        return Ok(user);
     }
-}
-
-public class LoginModel
-{
-    public string Username { get; set; } = "";
-    public string Password { get; set; } = "";
 }

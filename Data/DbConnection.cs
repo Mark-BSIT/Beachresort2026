@@ -1,16 +1,20 @@
 using MySql.Data.MySqlClient;
+using System.Data;
+using Microsoft.Extensions.Configuration;
 
 public class DbConnection
 {
-    private readonly string _connString;
+    private readonly IConfiguration _config;
 
-    public DbConnection(string connString)
+    public DbConnection(IConfiguration config)
     {
-        _connString = connString;
+        _config = config;
     }
 
-    public MySqlConnection GetConnection()
+    public IDbConnection CreateConnection()
     {
-        return new MySqlConnection(_connString);
+        return new MySqlConnection(
+            _config.GetConnectionString("DefaultConnection")
+        );
     }
 }
