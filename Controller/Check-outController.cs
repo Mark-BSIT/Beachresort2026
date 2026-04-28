@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Dapper;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/checkout")]
 public class CheckOutController : ControllerBase
 {
     private readonly DbConnection _db;
@@ -12,49 +12,64 @@ public class CheckOutController : ControllerBase
         _db = db;
     }
 
-    [HttpPost]
-    public IActionResult CheckOut([FromBody] dynamic data)
+    [HttpPut("{id}")]
+    public IActionResult CheckOut(int id, [FromBody] PaymentRequest p)
     {
-        using var conn = _db.CreateConnection();
-
-        var booking = conn.QueryFirstOrDefault(
-            "SELECT * FROM bookings WHERE id = @id",
-            new { id = data.bookingId }
-        );
-
-        if (booking == null)
-            return NotFound("Invalid Booking");
-
-        var pricing = conn.QueryFirst("SELECT * FROM pricing LIMIT 1");
-
-        decimal total =
-            (booking.num_people * pricing.entry_fee) +
-            pricing.cottage_price +
-            pricing.boat_price;
-
-        decimal cash = data.cash;
-
-        if (cash < total)
-            return BadRequest("Not enough cash");
-
-        decimal change = cash - total;
-
-        // save transaction
-        conn.Execute(@"
-            INSERT INTO transactions (booking_id, total_amount, cash, change_amount, date)
-            VALUES (@b, @t, @c, @ch, NOW())
-        ", new
+        try
         {
-            b = data.bookingId,
-            t = total,
-            c = cash,
-            ch = change
-        });
+            using var conn = _db.CreateConnection();
 
-        return Ok(new
+            // 🔍 GET BOOKING
+            var booking = conn.QueryFirstOrDefault(@"
+                SELECT * FROM bookings WHERE id = @id
+            ", new { id });
+
+            if (booking == null)
+                return NotFound("Invalid Booking");
+
+            // ❌ prevent double checkout
+            if (booking.status == "Checked-out")
+                return BadRequest("Already checked out");
+
+            decimal total = booking.total;
+            decimal cash = p.cash;
+
+            if (cash < total)
+                return BadRequest("Not enough cash");
+
+            decimal change = cash - total;
+
+            // 💾 SAVE TRANSACTION
+            conn.Execute(@"
+                INSERT INTO transactions 
+                (booking_id, total_amount, cash, change_amount, date)
+                VALUES (@b, @t, @c, @ch, NOW())
+            ", new
+            {
+                b = id,
+                t = total,
+                c = cash,
+                ch = change
+            });
+
+            // 🔥 UPDATE STATUS
+            conn.Execute(@"
+                UPDATE bookings 
+                SET status = 'Checked-out' 
+                WHERE id = @id
+            ", new { id });
+
+            return Ok(new
+            {
+                message = "Checkout successful",
+                total,
+                cash,
+                change
+            });
+        }
+        catch (Exception ex)
         {
-            total,
-            change
-        });
+            return Content("ERROR: " + ex.ToString());
+        }
     }
 }
