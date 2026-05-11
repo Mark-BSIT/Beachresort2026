@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|c:\\users\\lenovo\\source\\repos\\beachresortapiwinform\\beachresortapiwinform\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\addcottage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\addcottage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\addboat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\addboat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\addcottage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\addcottage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\pricingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\pricingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\pricingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\pricingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\models\\bookingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\models\\bookingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\models\\chartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\models\\chartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\models\\cottage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\models\\cottage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\addboat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\addboat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\beachresortapiwinform\\forms\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BE3587-87B2-4C07-A4CC-773A895E6F10}|BeachResortAPIWinForm\\BeachResortAPIWinForm.csproj|solutionrelative:beachresortapiwinform\\forms\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Session.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Session.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Session.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T15:36:27.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookingItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\BookingItem.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Models\\BookingItem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\BookingItem.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Models\\BookingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:19:35.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Checkout.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Checkout.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Checkout.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Checkout.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:43:41.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Checkout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Checkout.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Checkout.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Checkout.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Checkout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:35:26.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Checkin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Checkin.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Checkin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Checkin.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Checkin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:59:47.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Checkin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Checkin.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Checkin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Checkin.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Checkin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:54:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Apiresponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\Apiresponse.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Models\\Apiresponse.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\Apiresponse.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Models\\Apiresponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:41:44.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\BookingForm.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\BookingForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\BookingForm.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\BookingForm.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAADgv+0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:03:52.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StaffDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\StaffDashboard.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\StaffDashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\StaffDashboard.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\StaffDashboard.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:40:51.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\BookingForm.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\BookingForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\BookingForm.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\BookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:31:34.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StaffDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\StaffDashboard.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\StaffDashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\StaffDashboard.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\StaffDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:05:49.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PricingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\PricingForm.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\PricingForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\PricingForm.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\PricingForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T12:10:07.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PricingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\PricingForm.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\PricingForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\PricingForm.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\PricingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T12:07:39.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Transaction.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Transaction.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Transaction.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwHUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:47:25.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Transaction.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Transaction.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Transaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:19:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Addboat.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Addboat.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Addboat.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Addboat.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Addboat.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwDYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:13:41.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\Boat.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Models\\Boat.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\Boat.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Models\\Boat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:12:33.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Addboat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Addboat.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Addboat.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Addboat.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Addboat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:07:02.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Addcottage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Addcottage.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Addcottage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Addcottage.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Addcottage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T10:56:30.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Cottage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\Cottage.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Models\\Cottage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\Cottage.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Models\\Cottage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T10:54:55.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Addcottage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Addcottage.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Addcottage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Addcottage.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Addcottage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T10:48:36.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\Booking.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Models\\Booking.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:39:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChartData.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\ChartData.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Models\\ChartData.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\ChartData.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Models\\ChartData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:32:54.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Dashboard.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Dashboard.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Dashboard.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAArwOQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:30:13.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Register.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Register.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Register.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Register.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAASwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T15:32:27.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Register.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Register.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Register.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T15:23:51.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Forgotpass.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Forgotpass.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Forgotpass.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Forgotpass.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Forgotpass.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T15:04:18.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResetPasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\ResetPasswordModel.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Models\\ResetPasswordModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\ResetPasswordModel.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Models\\ResetPasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T15:02:41.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Forgotpass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Forgotpass.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Forgotpass.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Forgotpass.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Forgotpass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:54:52.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Service\\ApiService.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Service\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Service\\ApiService.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Service\\ApiService.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAYwPMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:28:31.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Dashboard.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Dashboard.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:22:18.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Form1.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Form1.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAjwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:11:04.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:18:38.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "BeachResortAPIWinForm\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BeachResortAPIWinForm\\BeachResortAPIWinForm\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "BeachResortAPIWinForm\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:47:07.265Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
